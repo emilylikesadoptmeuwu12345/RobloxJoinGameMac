@@ -14,5 +14,5 @@ chmod +x /usr/bin/rbxjoin
 
 ## Put your roblox cookie into ~/.rbxcookie first for starters
 ```bash
-rbxjoin --placeid [optional, number] --jobid [optional,string] --search [optional,string]
+rbxjoin --placeid [optional, number] --jobid [optional,string] --search [optional,string] --logs [optional,bool]
 ```
