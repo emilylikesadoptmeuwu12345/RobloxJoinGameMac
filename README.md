@@ -6,13 +6,11 @@ A way of joining games on roblox only using the terminal
 ```bash
 git clone https://github.com/emilylikesadoptmeuwu12345/RobloxJoinGameMac
 cd RobloxJoinGameMac
-sudo mv rbxjoin.py /usr/bin/rbxjoin
-sudo chmod +x /usr/bin/rbxjoin
 ```
 
 # How to use
 
 ## Put your roblox cookie into ~/.rbxcookie first for starters
 ```bash
-rbxjoin --placeid [optional, number] --jobid [optional,string]
+python3 rbxjoin.py --placeid [optional, number] --jobid [optional,string]
 ```
