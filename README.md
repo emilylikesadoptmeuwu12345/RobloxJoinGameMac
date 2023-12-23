@@ -6,8 +6,8 @@ A way of joining games on roblox only using the terminal
 ```bash
 git clone https://github.com/emilylikesadoptmeuwu12345/RobloxJoinGameMac
 cd RobloxJoinGameMac
-mv rbxjoin.py /usr/bin/rbxjoin
-chmod +x /usr/bin/rbxjoin
+sudo mv rbxjoin.py /usr/bin/rbxjoin
+sudo chmod +x /usr/bin/rbxjoin
 ```
 
 # How to use
